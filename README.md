@@ -998,3 +998,15 @@ You're free to use these frameworks for your own content creation. Attribution a
 **If this deepened your understanding of why content spreads, star this repo and share it with a creator who needs it.**
 
 [![GitHub stars](https://img.shields.io/github/stars/jakeolschewski/viral-content-psychology?style=for-the-badge)](https://github.com/jakeolschewski/viral-content-psychology)
+
+---
+
+## About WEDGE Method
+
+This resource is part of the **[WEDGE Method](https://thewedgemethodai.com)** ecosystem — AI-powered tools and systems for content creators, consultants, and business owners.
+
+- **Website**: [thewedgemethodai.com](https://thewedgemethodai.com)
+- **Products**: [wedgemethod.gumroad.com](https://wedgemethod.gumroad.com)
+- **Articles**: [dev.to/wedgemethoddev](https://dev.to/wedgemethoddev)
+
+Built by [Jacob Olschewski](https://linkedin.com/in/jacobolschewski) | jacob@thewedgemethodai.com
